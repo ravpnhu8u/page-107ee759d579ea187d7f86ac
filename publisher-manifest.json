@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "22aad01648bc96a5835d6374",
+  "owner": "ravpnhu8u",
+  "repo": "page-107ee759d579ea187d7f86ac",
+  "title": "老鸭云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "107ee759d579ea187d7f86ac",
+      "a": "老鸭云",
+      "b": "机场官网线路发布页",
+      "entity": "老鸭云",
+      "brand": "老鸭云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2cca7fc0c87d9924457205fd0f58a91453b7a6b97c6fc594fbae5f190ee17ce9",
+      "content": {
+        "primary_entity": "老鸭云",
+        "keyword1": "老鸭云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，配置订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐和客户端，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "开始配置老鸭云",
+          "AI_DESCRIPTION": "，老鸭云提供基础版、旗舰版与团队版三档方案，按月流量、在线设备数和线路类型区分，适合个人流媒体、游戏加速及小型团队协同场景。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备，带 IPLC 专线；团队版每月 1000GB、20 台设备，含定制路由。",
+          "AI_FAQ_ANSWER_2": "可以。旗舰版与团队版支持全节点原生流媒体解锁，基础版解锁基础流媒体，按需求选择对应档位即可。",
+          "AI_FAQ_ANSWER_3": "老鸭云按设备数量区分：基础版 3 台、旗舰版 5 台、团队版 20 台，多设备场景建议选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_4": "基础版按年付 ¥150，旗舰版 ¥350，团队版 ¥850，年付比月付更划算，适合长期使用者。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入老鸭云订阅链接，选择对应节点即可连接，具体步骤可参考所用客户端的使用文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "老鸭云各套餐流量和设备数分别是多少？",
+          "AI_FAQ_QUESTION_2": "旗舰版可以解锁流媒体吗？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何选择？",
+          "AI_FAQ_QUESTION_4": "按年付价格和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "导入订阅后怎么开始使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位到设备适配，快速判断哪一档适合自己。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "按月流量和在线设备数区分档位，个人选基础版，多设备流媒体选旗舰版。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供 IPLC 专线，适合对延迟敏感的游戏加速与高带宽场景。",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付更划算，团队版还支持企业定制路由和专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按需求挑套餐",
+          "AI_FEATURE_TITLE_2": "线路各有侧重",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "老鸭云提供基础版、旗舰版和团队版三档海外加速方案，按月流量、设备数量与线路类型划分，覆盖流媒体、游戏加速和团队协作场景，按需选择即可。",
+          "AI_HERO_SUBTITLE": "线路清晰，套餐按需",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "比较流量、设备数和线路，基础版适合轻量使用，旗舰版平衡性能，团队版满足多人共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和常用设备数量，从基础版、旗舰版、团队版中选择对应档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数与线路类型，确认流媒体或游戏加速是否满足需求。",
+          "AI_STEP_TEXT_3": "依据客户端使用文档导入订阅链接，选择节点后连接使用。",
+          "AI_STEP_TITLE_1": "选服务档位",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "老鸭云套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qymmg.cn",
+    "host": "qymmg.cn"
+  },
+  "file_hashes": {
+    "index.html": "c4c855772c00e0e06c7cab84395332541c4d8e7b18003ae0e9967c1a1bbfde0b",
+    "sitemap.xml": "e423c5748ace4bfd596c0a0128ec4609842881065c0f64b1d410543cf9e69208",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9ffc9e932303356d25aac19053ccedf8821abbd19b727010025d6dd2015eef2c",
+    "robots.txt": "f223d977c16f7459931903ca460536f86b7ae6e2b40b6631e0c582e3ddede914",
+    "fc5e3b81aa3051f828f5f16808a35009.txt": "dab1302ecb7bf62538420904e6a783eab198738492fa35dd55641233919f3b3a"
+  },
+  "revision": "5e556e1d5708dcf61d8326faf3a6037e143d931ff0bbf4d0078625674fe1f2e4"
+}
